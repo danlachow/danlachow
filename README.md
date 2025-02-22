@@ -27,5 +27,5 @@
   <h3>Repos</h3>
         <li><a href="https://github.com/danlachow/RezWare/">RezWare</a></li>
 </div>
-<img height=15 align="right" src="https://komarev.com/ghpvc/?username=RezWare-SoftWare&abbreviated=true" />
+<img height=15 align="right" src="https://komarev.com/ghpvc/?username=danlachow&abbreviated=true" />
 
