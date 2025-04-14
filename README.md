@@ -17,10 +17,10 @@ I'm Dan, the owner of **RezWare**, a software suite revolutionizing reservation,
 ### 🛠️ Skills
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Python%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/Electron-%2320232a.svg?style=flat&logo=electron&logoColor=%47848F" alt="Electron">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/C++-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Firebase">
 </div>
 
 - **Frontend**: React, HTML, CSS
