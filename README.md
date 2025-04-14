@@ -4,7 +4,7 @@
   <h3>Owner RezWare</h3>
   <p>idk what to type yet.. <3</p>
 
-  <img src="https://komarev.com/ghpvc/?username=danlacho&color=blue&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=danlachow&color=blue&style=flat" alt="Profile views">
 </div>
 
 ---
