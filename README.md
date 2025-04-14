@@ -4,9 +4,6 @@
   <h3>Owner RezWare</h3>
   <p>idk what to type yet.. <3</p>
 
-  <a href="https://x.com/your-x-handle"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=flat&logo=X&logoColor=white" alt="X"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-%23F05033.svg?style=flat&logo=firefox&logoColor=white" alt="Website"></a>
   <img src="https://komarev.com/ghpvc/?username=danlacho&color=blue&style=flat" alt="Profile views">
 </div>
 
