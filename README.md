@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/194953165?v=4" alt="danlacho" width="150" style="border-radius:50%;">
+  <img src="https://avatars.githubusercontent.com/u/194953165?v=4" alt="danlacho" width="150" style="border-radius:50px;">
   <h1>danlacho</h1>
   <h3>Owner & Innovator at RezWare</h3>
   <p>Building seamless reservation and ticketing solutions to empower businesses 📅✨</p>
