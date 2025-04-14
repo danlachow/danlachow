@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" alt="danlacho" width="150" style="border-radius:50%;">
-  <h1>Dan Lacho</h1>
+  <h1>danlacho</h1>
   <h3>Owner & Innovator at RezWare</h3>
   <p>Building seamless reservation and ticketing solutions to empower businesses 📅✨</p>
 
@@ -30,23 +30,6 @@ I'm Dan, the owner of **RezWare**, a software suite revolutionizing reservation,
 - **Backend**: Node.js, Express, Firebase
 - **Desktop Apps**: Electron for cross-platform solutions
 - **Other**: Real-time systems, WebSocket, database management
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Impact |
-|---------|-------------|------------|--------|
-| **[RezWare Suite](https://rezware.com)** | A powerful reservation system with integrated accounting and e-commerce, designed for businesses worldwide. 📈 | <img src="https://img.shields.io/badge/Electron-%2320232a.svg?style=flat&logo=electron&logoColor=%47848F" alt="Electron"> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"> <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Firebase"> | Streamlined operations for **100+ clients**, boosting efficiency and revenue. <br> <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat" alt="Live"> |
-| **[Real-Time Reactions App](https://github.com/danlacho/reactions-app)** | A Discord-inspired desktop app with emoji reactions and real-time multi-user sync. 😄 | <img src="https://img.shields.io/badge/Electron-%2320232a.svg?style=flat&logo=electron&logoColor=%47848F" alt="Electron"> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"> <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Firebase"> | Prototype for RezWare’s collaboration features, enabling seamless user interactions. <br> <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat" alt="In Progress"> |
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danlacho&show_icons=true&theme=radical&hide_border=true" alt="Dan's GitHub Stats" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danlacho&theme=radical&hide_border=true" alt="GitHub Streak" width="400">
-</div>
 
 ---
 
