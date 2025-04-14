@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/194953165?v=4" alt="danlacho" width="150" style="border-radius:50%;">
   <h1>danlacho</h1>
-  <h3>Owner & Innovator at RezWare</h3>
-  <p>Building seamless reservation and ticketing solutions to empower businesses 📅✨</p>
+  <h3>Owner RezWare</h3>
+  <p>idk what to type yet.. <3</p>
 
   <a href="https://x.com/your-x-handle"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=flat&logo=X&logoColor=white" alt="X"></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
